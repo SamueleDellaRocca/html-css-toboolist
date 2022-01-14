@@ -107,8 +107,6 @@ li {
     color: green;
     border: 1px solid green;
     border-radius: 50%;
-    width: 5px;
-    height: 5px;
 }
 
 .cross {
@@ -116,6 +114,4 @@ li {
     color: red;
     border: 1px solid red;
     border-radius: 50%;
-    width: 5px;
-    height: 5px;
 }
