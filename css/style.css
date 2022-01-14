@@ -101,3 +101,21 @@ li {
 .sales {
     background-color: lightgreen;
 }
+
+.mark {
+    padding: 3px;
+    color: green;
+    border: 1px solid green;
+    border-radius: 50%;
+    width: 5px;
+    height: 5px;
+}
+
+.cross {
+    padding: 3px;
+    color: red;
+    border: 1px solid red;
+    border-radius: 50%;
+    width: 5px;
+    height: 5px;
+}
