@@ -12,3 +12,37 @@ html {
     display: inline-block;
     line-height: 50px;
 }
+
+.container {
+    background-color: gray;
+    padding-top: 30px;
+    padding-bottom: 60px;
+}
+
+.box {
+    width: 1000px;
+    margin: auto;
+    height: 500px;
+    background-color: white;
+    padding-top: 20px;
+}
+
+.section1 {
+    padding-left: 50px;
+    padding-bottom: 10px;
+}
+
+.add-task {
+    background-color: hsl(204deg 86% 61%);
+    padding: 5px;
+    color: white;
+    border-radius: 5px;
+    border: 0;
+}
+
+.add-section {
+    padding: 5px;
+    border-radius: 5px;
+    color: hsl(210deg 11% 85%);
+    border: 0;
+}
